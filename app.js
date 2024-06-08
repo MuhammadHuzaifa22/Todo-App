@@ -69,4 +69,4 @@ function editTodo(index){
 }
 
 
-// Pushing it
+// Pushing to Github
