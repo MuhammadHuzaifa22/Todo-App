@@ -67,3 +67,6 @@ function editTodo(index){
     const ed = document.querySelector('#edit');
     ed.innerHTML ='Edited'
 }
+
+
+// Pushing it
